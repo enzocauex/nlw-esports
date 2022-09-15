@@ -1,0 +1,21 @@
+# NLW eSports
+
+![preview](./.github/preview.png)
+
+> Trilha Explorer
+
+Projeto contruído no evento Next Level Week da Rocketseat.
+
+[🔗 CLique aqui para acessar](https://enzocauex.github.io/nlw-esports/)
+
+## 🛠️ Tecnologias
+
+- HTML
+- CSS
+- Git & Github
+
+## ☎️ Contato
+
+[Instagram](https://instagram.com/enzocauex/)
+
+[Linkedin](https://enzocauex.github.io/nlw-esports/)
