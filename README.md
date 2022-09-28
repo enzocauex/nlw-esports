@@ -18,4 +18,4 @@ Projeto construído no evento Next Level Week da Rocketseat.
 
 [Instagram](https://instagram.com/enzocauex/)
 
-[Linkedin](https://enzocauex.github.io/nlw-esports/)
+[Linkedin](https://www.linkedin.com/in/enzo-caue/)
